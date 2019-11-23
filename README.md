@@ -1,3 +1,3 @@
 # Bismillah
 My first repository
-(google)[www.google.com]
+[Google](https://www.google.com)
